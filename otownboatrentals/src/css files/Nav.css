@@ -1,0 +1,38 @@
+.logoContainer {
+ display: flex;
+}
+
+.palmTree {
+  margin-left: 50px;
+  width: 125px;
+  height: 125px;
+}
+
+.logo {
+  border-radius: 50%;
+  width: 125px;
+  height: 125px;
+}
+
+nav {
+  margin-top: 15px;
+  align-items: center;
+}
+
+.directory {
+  font-size: 20px;
+  background-color: grey;
+  padding: 15px;
+  width: 100%;
+}
+
+.navBtn {
+  padding: 15px 25px;
+  margin-right: 10px;
+  text-decoration: inherit;
+  color: inherit;
+  text-decoration-color: inherit;
+  transition: all .5s;
+} 
+
+
