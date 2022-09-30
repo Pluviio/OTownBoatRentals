@@ -19,7 +19,7 @@ const Nav = () => {
 
         <Link to={'/'} className='navBtn'>Home</Link>
         <Link to={'/'} className='navBtn'>Gallery</Link>
-        <Link to={'/'} className='navBtn'>Pricing</Link>
+        <Link to={'/pricing'} className='navBtn'>Pricing</Link>
         <Link to={'/'} className='navBtn'>Contact</Link>
         <Link to={'/'} className='navBtn'>Book Now</Link>
 
