@@ -1,0 +1,12 @@
+.boatPrice {
+  outline: solid red;
+  display: flex;
+  justify-content: left;
+  width: 300px;
+  align-items: left;
+  font-size: 18px;
+}
+
+.boatPriceTitle {
+  display: flex;
+}
